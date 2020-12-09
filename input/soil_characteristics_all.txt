@@ -1,0 +1,233 @@
+PI	Soil	Sampling_Experiment	sampleID	analysis	Probenummer	Value	characteristic
+Selma	Aurora	from George Jander	30	LBU	8844310	5.4	P_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	6.4	P_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	5.3	P_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	5.6	P_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	4.9	P_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	5.5	P_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	2.1	P_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	3.3	P_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	4.2	P_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	15.9	K_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	19.6	K_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	16.8	K_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	24.2	K_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	21.2	K_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	23.7	K_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	40.4	K_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	43.8	K_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	50.2	K_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	33.6	Mg_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	32.9	Mg_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	30.3	Mg_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	20.1	Mg_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	20.6	Mg_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	20.7	Mg_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	14.5	Mg_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	13.8	Mg_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	13.7	Mg_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	112.7	Ca_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	115	Ca_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	111.3	Ca_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	103.5	Ca_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	106.2	Ca_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	93.5	Ca_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	362.9	Ca_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	349.8	Ca_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	327.5	Ca_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	41.5	N_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	33.2	N_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	30.1	N_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	20.9	N_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	20.1	N_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	17.7	N_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	151.9	N_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	149.8	N_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	135	N_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	9.33	NH4_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	12.16	NH4_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	8.66	NH4_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	10.73	NH4_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	10.06	NH4_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	10.9	NH4_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	7.65	NH4_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	8.99	NH4_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	10.82	NH4_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	2.542	Na_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	2.844	Na_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	3.069	Na_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	8.128	Na_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	2.659	Na_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	2.629	Na_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	8.377	Na_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	9.091	Na_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	7.942	Na_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	13.69	Fe_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	15.93	Fe_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	15.02	Fe_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	9.375	Fe_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	8.947	Fe_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	11.33	Fe_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	2.343	Fe_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	2.451	Fe_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	2.925	Fe_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	0.222	Bor_H2O_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	0.234	Bor_H2O_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	0.231	Bor_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	0.157	Bor_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	0.162	Bor_H2O_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	0.169	Bor_H2O_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	0.128	Bor_H2O_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	0.135	Bor_H2O_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	0.125	Bor_H2O_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	53	P_EDTA_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	57.9	P_EDTA_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	51	P_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	61.1	P_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	66.4	P_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	62	P_EDTA_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	62.7	P_EDTA_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	69.7	P_EDTA_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	61.5	P_EDTA_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	73.3	K_EDTA_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	74.3	K_EDTA_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	78.8	K_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	184.1	K_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	184.8	K_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	187.5	K_EDTA_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	203.4	K_EDTA_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	223.5	K_EDTA_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	205.7	K_EDTA_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	419.7	Mg_EDTA_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	422.5	Mg_EDTA_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	404	Mg_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	506.6	Mg_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	503.1	Mg_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	529.2	Mg_EDTA_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	182.5	Mg_EDTA_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	163.6	Mg_EDTA_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	185	Mg_EDTA_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	2938	Ca_EDTA_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	2997	Ca_EDTA_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	2888	Ca_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	4526	Ca_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	4500	Ca_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	4777	Ca_EDTA_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	8468	Ca_EDTA_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	7229	Ca_EDTA_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	7954	Ca_EDTA_mg.kg
+Selma	Aurora	from George Jander	30	LBU	8844310	322.7	Mn_EDTA_mg.kg
+Selma	Aurora	mixed from genotypes	31	LBU	8844311	332.4	Mn_EDTA_mg.kg
+Selma	Aurora	BX+ and BX- mixed	32	LBU	8844312	317.6	Mn_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	40	LBU	8844313	257.7	Mn_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	41	LBU	8844314	259.5	Mn_EDTA_mg.kg
+Selma	Reckenholz2	fresh field soil 2019	42	LBU	8844315	271.4	Mn_EDTA_mg.kg
+Lisa	Changins1	Leftover from Selmas	10	LBU	8844304	228.8	Mn_EDTA_mg.kg
+Lisa	Changins1	unconditioned field soil	11	LBU	8844305	242.7	Mn_EDTA_mg.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	LBU	8844306	234.5	Mn_EDTA_mg.kg
+Selma	Aurora	from George Jander	30	GIUB	56Fe	25.19	Fe_HNO3_g.kg
+Selma	Aurora	mixed from genotypes	31	GIUB	56Fe	27.48	Fe_HNO3_g.kg
+Selma	Aurora	BX+ and BX- mixed	32	GIUB	56Fe	22.74	Fe_HNO3_g.kg
+Selma	Reckenholz2	fresh field soil 2019	40	GIUB	56Fe	20.74	Fe_HNO3_g.kg
+Selma	Reckenholz2	fresh field soil 2019	41	GIUB	56Fe	21.96	Fe_HNO3_g.kg
+Selma	Reckenholz2	fresh field soil 2019	42	GIUB	56Fe	19.98	Fe_HNO3_g.kg
+Lisa	Changins1	Leftover from Selmas	10	GIUB	56Fe	24.29	Fe_HNO3_g.kg
+Lisa	Changins1	unconditioned field soil	11	GIUB	56Fe	23.22	Fe_HNO3_g.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	GIUB	56Fe	22.04	Fe_HNO3_g.kg
+Selma	Aurora	from George Jander	30	GIUB	57Fe	25.22	Fe_HNO3_g.kg
+Selma	Aurora	mixed from genotypes	31	GIUB	57Fe	27.44	Fe_HNO3_g.kg
+Selma	Aurora	BX+ and BX- mixed	32	GIUB	57Fe	22.6	Fe_HNO3_g.kg
+Selma	Reckenholz2	fresh field soil 2019	40	GIUB	57Fe	20.81	Fe_HNO3_g.kg
+Selma	Reckenholz2	fresh field soil 2019	41	GIUB	57Fe	21.98	Fe_HNO3_g.kg
+Selma	Reckenholz2	fresh field soil 2019	42	GIUB	57Fe	20	Fe_HNO3_g.kg
+Lisa	Changins1	Leftover from Selmas	10	GIUB	57Fe	24.29	Fe_HNO3_g.kg
+Lisa	Changins1	unconditioned field soil	11	GIUB	57Fe	23.18	Fe_HNO3_g.kg
+Lisa	Changins1	greenhouse exp. conditionging sampled (B73 and bx1 mixed)	12	GIUB	57Fe	22.18	Fe_HNO3_g.kg
+Selma	Aurora	from George Jander	W22 KA13-14 (A)	Agroscope	NA	45	sand
+Selma	Aurora	from George Jander	W22 KA13-14 (B)	Agroscope	NA	44.1	sand
+Selma	Aurora	from George Jander	W22 CE83-84 (A)	Agroscope	NA	41.5	sand
+Selma	Aurora	from George Jander	W22 CE83-84 (B)	Agroscope	NA	36.8	sand
+Selma	Aurora	from George Jander	BX1 KA12 (A)	Agroscope	NA	41.2	sand
+Selma	Aurora	from George Jander	BX1 KA12 (B)	Agroscope	NA	41.4	sand
+Selma	Aurora	from George Jander	"BX1 CE71,72 (A)"	Agroscope	NA	36.6	sand
+Selma	Aurora	from George Jander	"BX1 CE71,72 (B)"	Agroscope	NA	39.1	sand
+Selma	Aurora	from George Jander	BX2 KA16 (A)	Agroscope	NA	36.5	sand
+Selma	Aurora	from George Jander	BX2 KA16 (B)	Agroscope	NA	41.7	sand
+Selma	Aurora	from George Jander	"BX2 CE73,74 (A)"	Agroscope	NA	41.1	sand
+Selma	Aurora	from George Jander	"BX2 CE73,74 (B)"	Agroscope	NA	40	sand
+Selma	Aurora	from George Jander	W22 KA13-14 (A)	Agroscope	NA	36.8	silt
+Selma	Aurora	from George Jander	W22 KA13-14 (B)	Agroscope	NA	37.6	silt
+Selma	Aurora	from George Jander	W22 CE83-84 (A)	Agroscope	NA	38.8	silt
+Selma	Aurora	from George Jander	W22 CE83-84 (B)	Agroscope	NA	40.2	silt
+Selma	Aurora	from George Jander	BX1 KA12 (A)	Agroscope	NA	38.6	silt
+Selma	Aurora	from George Jander	BX1 KA12 (B)	Agroscope	NA	38.8	silt
+Selma	Aurora	from George Jander	"BX1 CE71,72 (A)"	Agroscope	NA	39.5	silt
+Selma	Aurora	from George Jander	"BX1 CE71,72 (B)"	Agroscope	NA	37.1	silt
+Selma	Aurora	from George Jander	BX2 KA16 (A)	Agroscope	NA	35.7	silt
+Selma	Aurora	from George Jander	BX2 KA16 (B)	Agroscope	NA	37.4	silt
+Selma	Aurora	from George Jander	"BX2 CE73,74 (A)"	Agroscope	NA	36.6	silt
+Selma	Aurora	from George Jander	"BX2 CE73,74 (B)"	Agroscope	NA	37.9	silt
+Selma	Aurora	from George Jander	W22 KA13-14 (A)	Agroscope	NA	16	clay
+Selma	Aurora	from George Jander	W22 KA13-14 (B)	Agroscope	NA	16.1	clay
+Selma	Aurora	from George Jander	W22 CE83-84 (A)	Agroscope	NA	17.4	clay
+Selma	Aurora	from George Jander	W22 CE83-84 (B)	Agroscope	NA	20.4	clay
+Selma	Aurora	from George Jander	BX1 KA12 (A)	Agroscope	NA	17.4	clay
+Selma	Aurora	from George Jander	BX1 KA12 (B)	Agroscope	NA	17.9	clay
+Selma	Aurora	from George Jander	"BX1 CE71,72 (A)"	Agroscope	NA	21.2	clay
+Selma	Aurora	from George Jander	"BX1 CE71,72 (B)"	Agroscope	NA	21.5	clay
+Selma	Aurora	from George Jander	BX2 KA16 (A)	Agroscope	NA	16.9	clay
+Selma	Aurora	from George Jander	BX2 KA16 (B)	Agroscope	NA	19	clay
+Selma	Aurora	from George Jander	"BX2 CE73,74 (A)"	Agroscope	NA	19.5	clay
+Selma	Aurora	from George Jander	"BX2 CE73,74 (B)"	Agroscope	NA	19.2	clay
+Selma	Aurora	from George Jander	W22 KA13-14 (A)	Agroscope	NA	6.6	pH
+Selma	Aurora	from George Jander	W22 KA13-14 (B)	Agroscope	NA	7.08	pH
+Selma	Aurora	from George Jander	W22 CE83-84 (A)	Agroscope	NA	6.55	pH
+Selma	Aurora	from George Jander	W22 CE83-84 (B)	Agroscope	NA	6.54	pH
+Selma	Aurora	from George Jander	BX1 KA12 (A)	Agroscope	NA	7.28	pH
+Selma	Aurora	from George Jander	BX1 KA12 (B)	Agroscope	NA	7.48	pH
+Selma	Aurora	from George Jander	"BX1 CE71,72 (A)"	Agroscope	NA	7.63	pH
+Selma	Aurora	from George Jander	"BX1 CE71,72 (B)"	Agroscope	NA	7.31	pH
+Selma	Aurora	from George Jander	BX2 KA16 (A)	Agroscope	NA	7.19	pH
+Selma	Aurora	from George Jander	BX2 KA16 (B)	Agroscope	NA	7.2	pH
+Selma	Aurora	from George Jander	"BX2 CE73,74 (A)"	Agroscope	NA	7.1	pH
+Selma	Aurora	from George Jander	"BX2 CE73,74 (B)"	Agroscope	NA	7.39	pH
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample1	Agroscope	NA	35.8	sand
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample2	Agroscope	NA	39.2	sand
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample1	Agroscope	NA	38.9	silt
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample2	Agroscope	NA	36.6	silt
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample1	Agroscope	NA	25.3	clay
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample2	Agroscope	NA	24.2	clay
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample1	Agroscope	NA	7.16	pH
+Selma	Reckenholz3	sampled_onfield_unconditioned_2019	sample2	Agroscope	NA	6.64	pH
+Klaus	Changins	wt-soil_field	12_field	Agroscope	Probe_009	7.99	pH
+Klaus	Changins	wt-soil_field	18_field	Agroscope	Probe_010	7.98	pH
+Klaus	Changins	wt-soil_field	48_field	Agroscope	Probe_011	7.94	pH
+Klaus	Changins	wt-soil_field	268_field	Agroscope	Probe_012	7.2	pH
+Klaus	Changins	bx-soil_field	7_field	Agroscope	Probe_013	7.97	pH
+Klaus	Changins	bx-soil_field	47_field	Agroscope	Probe_014	8	pH
+Klaus	Changins	bx-soil_field	171_field	Agroscope	Probe_015	7.95	pH
+Klaus	Changins	bx-soil_field	177_field	Agroscope	Probe_016	7.21	pH
+Klaus	Changins	wt-soil_field	12_field	Agroscope	Probe_009	24.13	sand
+Klaus	Changins	wt-soil_field	18_field	Agroscope	Probe_010	30.04	sand
+Klaus	Changins	wt-soil_field	48_field	Agroscope	Probe_011	27.3	sand
+Klaus	Changins	wt-soil_field	268_field	Agroscope	Probe_012	33.75	sand
+Klaus	Changins	bx-soil_field	7_field	Agroscope	Probe_013	31.23	sand
+Klaus	Changins	bx-soil_field	47_field	Agroscope	Probe_014	31.48	sand
+Klaus	Changins	bx-soil_field	171_field	Agroscope	Probe_015	27.72	sand
+Klaus	Changins	bx-soil_field	177_field	Agroscope	Probe_016	38	sand
+Klaus	Changins	wt-soil_field	12_field	Agroscope	Probe_009	42.2	silt
+Klaus	Changins	wt-soil_field	18_field	Agroscope	Probe_010	35.9	silt
+Klaus	Changins	wt-soil_field	48_field	Agroscope	Probe_011	36.6	silt
+Klaus	Changins	wt-soil_field	268_field	Agroscope	Probe_012	37	silt
+Klaus	Changins	bx-soil_field	7_field	Agroscope	Probe_013	37.2	silt
+Klaus	Changins	bx-soil_field	47_field	Agroscope	Probe_014	35.6	silt
+Klaus	Changins	bx-soil_field	171_field	Agroscope	Probe_015	36.1	silt
+Klaus	Changins	bx-soil_field	177_field	Agroscope	Probe_016	36.1	silt
+Klaus	Changins	wt-soil_field	12_field	Agroscope	Probe_009	31.6	clay
+Klaus	Changins	wt-soil_field	18_field	Agroscope	Probe_010	32.1	clay
+Klaus	Changins	wt-soil_field	48_field	Agroscope	Probe_011	34.1	clay
+Klaus	Changins	wt-soil_field	268_field	Agroscope	Probe_012	27.5	clay
+Klaus	Changins	bx-soil_field	7_field	Agroscope	Probe_013	29.7	clay
+Klaus	Changins	bx-soil_field	47_field	Agroscope	Probe_014	31	clay
+Klaus	Changins	bx-soil_field	171_field	Agroscope	Probe_015	34.2	clay
+Klaus	Changins	bx-soil_field	177_field	Agroscope	Probe_016	24.1	clay
